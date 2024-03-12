@@ -5,5 +5,5 @@ This banana crop monitoring system was specifically developed to fit the de-budd
 A system made for Bartulaba-Domolok Banana Farm, and for our capstone project.
 
 # Members
-Kagie Angelo Maruyama (Developer)
-Jhon Louise Tan (Project Manager)
+- Kagie Angelo Maruyama (Developer)
+- Jhon Louise Tan (Project Manager)
