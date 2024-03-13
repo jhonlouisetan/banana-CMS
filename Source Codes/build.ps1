@@ -1,0 +1,1 @@
+pyinstaller --windowed --onefile --add-data="forest-light.tcl:." --add-data="forest-light:forest-light" .\login.py 
